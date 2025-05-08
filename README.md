@@ -15,3 +15,11 @@ This website contains 4 pages:
 
   This website does not have "features;" it is primarily a space for me to learn WebDev programming. 
 
+Please find screenshots of the website attached below. 
+![image](https://github.com/user-attachments/assets/e035c56e-9e12-4e4e-a407-b51a9e5d59d1)
+![image](https://github.com/user-attachments/assets/74daea73-80dc-4107-a2fa-e697cef139c9)
+![image](https://github.com/user-attachments/assets/ecb2fbb3-ece8-4fe3-9a3a-2cf1ef45a1df)
+![image](https://github.com/user-attachments/assets/d40e06ab-b542-471e-9b65-fe1fad472056)
+![image](https://github.com/user-attachments/assets/e2341348-d05e-4f29-9f9d-5b65f5dd2dcb)
+![image](https://github.com/user-attachments/assets/91919d8d-df6a-4faa-8c99-b627beb2ae93)
+
