@@ -1,0 +1,3 @@
+document.getElementById("secret-button").addEventListener("click", function() {
+    alert("Thank you so much for making the second semester of CS at Ashoka so amazing. This course was truly a fantastic journey and I am eternally grateful to the teaching team for making it such a positive experience. A MASSIVE thank you to all the TA's without whom I most certainly would not have been able to pass this course. Your support and guidance has been incredibly valuable and I hope that we'll see eachother more as my CS journey at Ashoka continues. Thanks a ton...till next time!!!")
+}); 
